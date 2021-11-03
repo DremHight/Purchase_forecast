@@ -11,6 +11,8 @@
 ```
 -|
 --LICENSE   开源协议文件，默认为MIT开源协议。
+--2506723.ipynb 主代码
+--datasetDownload.txt 数据集下载地址
 --README.md 项目说明文件，可使用Markdowm编辑器进行编辑。
 --requirements.txt Python项目依赖列表
 --4.zip 模型参数文件
